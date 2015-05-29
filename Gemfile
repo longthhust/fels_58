@@ -35,6 +35,8 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 # Timezone for windows environment
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
 
+gem 'devise'
+
 # Use bootstrap as the UI library
 gem 'bootstrap-sass'
 
